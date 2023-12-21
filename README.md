@@ -13,3 +13,4 @@ beginners. The graphical user interface (GUI) is enhanced using the JTattoo libr
 aesthetically pleasing and seamless gaming experience. Whether playing in the classic two-player 
 setup or embracing the challenge of the three-player mode, Naughts and Crosses promises hours of 
 strategic fun for players of all skill levels.
+<img src="https://github.com/nim3xh/Noughts_and_Crosess_Java/assets/105283769/341ee4b7-9647-49f5-b725-4b4cca9f910c"><br>
